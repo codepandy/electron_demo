@@ -43,4 +43,8 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 ## License
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
+### 版本7安装出现问题解决方法
+把版本下降掉7以下
+```
 "electron": "^6.1.5"
+```
